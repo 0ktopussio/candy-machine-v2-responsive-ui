@@ -483,11 +483,9 @@ const Home = (props: HomeProps) => {
         <main>
             <MainContainer>
                 <WalletContainer>
-                    <Logo><a href="#" target="_blank" rel="noopener noreferrer"><img alt=""
+                    <Logo><a href="https://0ktopuss.com" target="_blank" rel="noopener noreferrer"><img alt=""
                                                                                                           src="logo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="#" target="_blank" rel="noopener noreferrer">Mint</a>
-                        </li>
                         <li><a href="https://twitter.com/0ktopuss" target="_blank"
                                rel="noopener noreferrer">Twitter</a></li>
                     </Menu>
