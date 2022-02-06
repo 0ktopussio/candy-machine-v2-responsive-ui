@@ -9,7 +9,7 @@
 
 body{
   background-color:var(--main-background-color);
-  font-family: 'Helvetica';
+  font-family: 'monospace';
   font-size: 1.2em;
 }
 

@@ -502,7 +502,7 @@ const Home = (props: HomeProps) => {
                 <MintContainer>
                     <DesContainer>
                         <NFT elevation={3}>
-                            <h2>0.69 SOL stealth mint</h2>
+                            <h2>0ktopuss AI Erotic Art NFTs</h2>
                             <br/>
                             <div><Price
                                 label={isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " " + priceLabel) : (price + " " + priceLabel)}/><Image
@@ -577,23 +577,22 @@ const Home = (props: HomeProps) => {
                     <DesContainer>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>0ktopuss</GoldTitle></LogoAligner>
-                            <p>69 unique pieces, 0.69 SOL mint price.</p>
-                            <p>We will list on exchange.art and solsea.io when the stealth mint is over.</p>
-                            <p>Please always use a burner wallet when minting.</p>
-                        </Des>
-                        <Des elevation={2}>
-                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>0ktopuss</GoldTitle></LogoAligner>
-                            <p>Why the name? 0k will go to the Pussy, its all for the fucked up system!</p>
                             <p>Started as an idea to pay back a student loan, a girl and a developer came up with this art project.</p>
-                            <p>We will donate 10% of the proceedings to a charity.</p>
+                            <p>Why the name? Because 0k will go to the Pussy - its all for the fucked up system!</p>
                             <p>Anon Girl + Anon Dev. No Discord, no Doxxing. Take it as it is.</p>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>what you mint</GoldTitle></LogoAligner>
                             <p>Some wet vagina shots met an artificial intelligence - just art.</p>
                             <p>No "utility" - this is something you can hang in your metaverse's bedroom.</p>
-                            <p>We do not provide a community, we do not provide customer service.</p>
                             <p>Its just a piece of art, like in the old days!</p>
+                            <p>Please always use a burner wallet when minting!</p>
+                        </Des>
+                        <Des elevation={2}>
+                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>After mint</GoldTitle></LogoAligner>
+                            <p>We do not provide a community, we do not provide customer service.</p>
+                            <p>We will list on exchange.art and solsea.io when the stealth mint is over.</p>
+                            <p>We will donate 10% of the proceedings to a charity.</p>
                         </Des>
                     </DesContainer>
                 </MintContainer>
